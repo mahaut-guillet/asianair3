@@ -1,0 +1,21 @@
+@import 
+
+@import url("components/container.css")
+@import url("components/avatar.css")
+@import url("components/button.css")
+
+
+body {
+	font-family: monospace, serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: monospace, sans-serif;
+	font-weight: bolder;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	color: black;
+}
